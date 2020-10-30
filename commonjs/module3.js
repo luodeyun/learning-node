@@ -1,0 +1,1 @@
+exports.peiqi=[1,2,2,33,]
